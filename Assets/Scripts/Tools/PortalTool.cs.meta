@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6c5d5a46d4c9e3d4185c00cda1242cdd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - portal1: {instanceID: 0}
+  - portal2: {instanceID: 0}
+  - orangeGun: {fileID: 8904694500678440073, guid: 7459cb24e67da214987aceb6143b44b6, type: 3}
+  - blueGun: {fileID: 8590040114488253049, guid: 7459cb24e67da214987aceb6143b44b6, type: 3}
+  - spriteRenderer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
